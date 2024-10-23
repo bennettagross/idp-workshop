@@ -46,6 +46,6 @@ spec:
     - spotify
   providesApis:
     - petstore
-dependsOn:
-  - component:default/bennettgross-service
+  dependsOn:
+    - component:default/bennettgross-service
 # system: bennettgross-system
