@@ -48,4 +48,4 @@ spec:
     - petstore
 dependsOn:
   - component:default/bennettgross-service
-system: bennettgross-system
+# system: bennettgross-system
